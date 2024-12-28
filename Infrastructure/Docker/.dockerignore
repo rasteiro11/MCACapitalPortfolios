@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+**/*.user
+**/*.lock.json
+**/node_modules/
+

@@ -1,0 +1,15 @@
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/bin/Debug/net8.0/MCACapitalPortfolios.Contracts.deps.json
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/bin/Debug/net8.0/MCACapitalPortfolios.Contracts.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/bin/Debug/net8.0/MCACapitalPortfolios.Contracts.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.AssemblyInfoInputs.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.AssemblyInfo.cs
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.csproj.CoreCompileInputs.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/refint/MCACapitalPortfolios.Contracts.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/ref/MCACapitalPortfolios.Contracts.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/bin/Debug/net8.0/MCACapitalPortfolios.Domain.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/bin/Debug/net8.0/MCACapitalPortfolios.Domain.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.csproj.AssemblyReference.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/Debug/net8.0/MCACapitalPortfolios.Contracts.csproj.CopyComplete

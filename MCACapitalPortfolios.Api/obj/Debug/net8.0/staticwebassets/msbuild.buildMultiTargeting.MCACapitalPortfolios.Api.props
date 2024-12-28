@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MCACapitalPortfolios.Api.props" />
+</Project>

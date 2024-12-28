@@ -1,0 +1,11 @@
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/bin/Debug/net8.0/MCACapitalPortfolios.Domain.deps.json
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/bin/Debug/net8.0/MCACapitalPortfolios.Domain.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/bin/Debug/net8.0/MCACapitalPortfolios.Domain.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/MCACapitalPortfolios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/MCACapitalPortfolios.Domain.AssemblyInfoInputs.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/MCACapitalPortfolios.Domain.AssemblyInfo.cs
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/MCACapitalPortfolios.Domain.csproj.CoreCompileInputs.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/MCACapitalPortfolios.Domain.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/refint/MCACapitalPortfolios.Domain.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/MCACapitalPortfolios.Domain.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/Debug/net8.0/ref/MCACapitalPortfolios.Domain.dll

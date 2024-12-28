@@ -1,0 +1,17 @@
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/bin/Debug/net8.0/MCACapitalPortfolios.Application.deps.json
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/bin/Debug/net8.0/MCACapitalPortfolios.Application.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/bin/Debug/net8.0/MCACapitalPortfolios.Application.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/bin/Debug/net8.0/MCACapitalPortfolios.Contracts.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/bin/Debug/net8.0/MCACapitalPortfolios.Domain.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/bin/Debug/net8.0/MCACapitalPortfolios.Domain.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/bin/Debug/net8.0/MCACapitalPortfolios.Contracts.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.csproj.AssemblyReference.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.AssemblyInfoInputs.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.AssemblyInfo.cs
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.csproj.CoreCompileInputs.cache
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.csproj.CopyComplete
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/refint/MCACapitalPortfolios.Application.dll
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/MCACapitalPortfolios.Application.pdb
+/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/Debug/net8.0/ref/MCACapitalPortfolios.Application.dll

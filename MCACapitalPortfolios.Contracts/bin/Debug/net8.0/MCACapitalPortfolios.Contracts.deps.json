@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MCACapitalPortfolios.Contracts/1.0.0": {
+        "dependencies": {
+          "MCACapitalPortfolios.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MCACapitalPortfolios.Contracts.dll": {}
+        }
+      },
+      "MCACapitalPortfolios.Domain/1.0.0": {
+        "runtime": {
+          "MCACapitalPortfolios.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MCACapitalPortfolios.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MCACapitalPortfolios.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

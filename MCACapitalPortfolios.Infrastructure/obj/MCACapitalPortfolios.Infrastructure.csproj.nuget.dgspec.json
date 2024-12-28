@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Infrastructure/MCACapitalPortfolios.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/MCACapitalPortfolios.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/MCACapitalPortfolios.Application.csproj",
+        "projectName": "MCACapitalPortfolios.Application",
+        "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/MCACapitalPortfolios.Application.csproj",
+        "packagesPath": "/home/titico03/.nuget/packages/",
+        "outputPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/titico03/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/MCACapitalPortfolios.Contracts.csproj": {
+                "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/MCACapitalPortfolios.Contracts.csproj"
+              },
+              "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/MCACapitalPortfolios.Domain.csproj": {
+                "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/MCACapitalPortfolios.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/MCACapitalPortfolios.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/MCACapitalPortfolios.Contracts.csproj",
+        "projectName": "MCACapitalPortfolios.Contracts",
+        "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/MCACapitalPortfolios.Contracts.csproj",
+        "packagesPath": "/home/titico03/.nuget/packages/",
+        "outputPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/titico03/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/MCACapitalPortfolios.Domain.csproj": {
+                "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/MCACapitalPortfolios.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/MCACapitalPortfolios.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/MCACapitalPortfolios.Domain.csproj",
+        "projectName": "MCACapitalPortfolios.Domain",
+        "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/MCACapitalPortfolios.Domain.csproj",
+        "packagesPath": "/home/titico03/.nuget/packages/",
+        "outputPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/titico03/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Infrastructure/MCACapitalPortfolios.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Infrastructure/MCACapitalPortfolios.Infrastructure.csproj",
+        "projectName": "MCACapitalPortfolios.Infrastructure",
+        "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Infrastructure/MCACapitalPortfolios.Infrastructure.csproj",
+        "packagesPath": "/home/titico03/.nuget/packages/",
+        "outputPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/titico03/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/MCACapitalPortfolios.Application.csproj": {
+                "projectPath": "/home/titico03/Documents/MCACapitalPortfolios/MCACapitalPortfolios.Application/MCACapitalPortfolios.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CronExpressionDescriptor": {
+              "target": "Package",
+              "version": "[2.36.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NCrontab": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

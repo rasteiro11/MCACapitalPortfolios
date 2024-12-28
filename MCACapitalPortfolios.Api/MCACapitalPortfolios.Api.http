@@ -1,0 +1,6 @@
+@MCACapitalPortfolios.Api_HostAddress = http://localhost:5105
+
+GET {{MCACapitalPortfolios.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
