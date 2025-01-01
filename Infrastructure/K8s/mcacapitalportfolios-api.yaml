@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: mcacapitalportfolios-api
-          image: rasteiro11/mcacapitalportfolios-api:v1.0
+          image: rasteiro11/mcacapitalportfolios-api:20250101125645
           imagePullPolicy: Always
           ports:
             - containerPort: 5003
